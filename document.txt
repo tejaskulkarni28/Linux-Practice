@@ -13,4 +13,15 @@
 	.s-h
 	.tc-sh
 
+4. BASIC FILE STRUCTURE FOR LINUX FILE SYSTEM IS:
+-> ROOT -> /bin
+	   /sbin
+	   /usr/bin,sbin
+	   /etc
+	   /home
+	   /#etc..
+   Tejas -> /Applications
+  	    /Desktop
+	    /Downloads
+	    /#etc..
 
