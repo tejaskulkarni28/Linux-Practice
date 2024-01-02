@@ -1,0 +1,16 @@
+#List start what I am learning 
+
+1. So what is linux ?
+-> Linux is Unix-like operating system based on file system
+
+2. Where the shell lies ?
+-> Hardware->Kernel->Shell->Applications
+
+3. Types of shell are:
+-> 	.Ba-sh
+	.Z-sh 
+	.C-sh
+	.s-h
+	.tc-sh
+
+
